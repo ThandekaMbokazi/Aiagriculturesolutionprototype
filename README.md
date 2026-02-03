@@ -1,7 +1,7 @@
 
   # AI Agriculture Solution Prototype
 
-  This is a code bundle for AI Agriculture Solution Prototype. The original project is available at https://www.figma.com/design/9Vt78b7MTnun6j0UW1gkH5/AI-Agriculture-Solution-Prototype.
+  This is a code bundle for AI Agriculture Solution Prototype. The original project is available at https://nova-coin-33465230.figma.site.
 
   ## Running the code
 
